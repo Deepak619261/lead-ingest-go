@@ -1,0 +1,18 @@
+# build output
+bin/
+*.exe
+/ingest
+/mockengine
+/gencsv
+
+# generated data and benchmark output
+testdata/
+bench/results/
+bench/*.log
+*.prof
+*.ckpt
+
+# personal learning material (not part of the project)
+learn/
+LESSONS.md
+REBUILD.md

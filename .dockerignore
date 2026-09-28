@@ -1,0 +1,4 @@
+bin/
+testdata/
+bench/results/
+*.exe
